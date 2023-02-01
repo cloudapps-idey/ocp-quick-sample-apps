@@ -1,0 +1,1 @@
+# ocp-quick-sample-apps
