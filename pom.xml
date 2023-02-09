@@ -139,6 +139,13 @@
         <groupId>org.jolokia</groupId>
         <artifactId>jolokia-core</artifactId>
     </dependency>
+   <!-- https://mvnrepository.com/artifact/org.jolokia/jolokia-spring -->
+<dependency>
+    <groupId>org.jolokia</groupId>
+    <artifactId>jolokia-spring</artifactId>
+    <version>1.7.1</version>
+</dependency>
+
   </dependencies>
   <build>
     <resources>
